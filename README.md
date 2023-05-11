@@ -30,3 +30,5 @@ There are quite a few goals for this case study.
   - Include visualisations and summarise the most important results in the presentation
   - A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered
 
+
+
